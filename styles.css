@@ -1,8 +1,8 @@
-   /* styles.css */
-   body {
+/* styles.css */
+body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #f0f0f0;
+    background: linear-gradient(to right, #e0f7fa, #81d4fa); /* Gradient from very light blue to light blue */
     color: #333;
     padding: 50px;
 }
